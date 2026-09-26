@@ -33,19 +33,6 @@
 
 ---
 
-## 🎯 3-Minute Hackathon Judge Evaluation Walkthrough
-
-| Step | Feature to Test | Where to Look | What to Observe |
-|:---:|:---|:---|:---|
-| **1** | **Live Telemetry & Dashboard** | [Home Dashboard](https://nitk-surathkal-janurja.vercel.app) | Inspect the 3 dynamic metric capsules: **32.5 kWh Generated** − **28.0 kWh USED** = **+4.5 kWh LEFT (Surplus)**. |
-| **2** | **Full Interactive Wallet** | Top Navbar `₹ Balance` or Dashboard Capsule | Open the **JanUrja Escrow Wallet**. Deposit funds via Mock UPI/Card/NetBanking with live receipts, withdraw to bank via IMPS, and inspect the real-time passbook ledger. |
-| **3** | **Interactive 90-Sec Demo** | Top Navbar Menu ➔ Demo Centerpiece | Watch autonomous Beckn state transitions (`DISCOVERED` ➔ `QUOTED` ➔ `AUTHORIZED` ➔ `ALLOCATED` ➔ `SETTLED`) with dual green Electron Flow and gold Financial UPI Flow animations. |
-| **4** | **P2P Marketplace & Limit Orders** | Click `+ Buy Energy` or `↗ Sell Energy` | Place bids, test agentic price guards (*"Only buy if rate < ₹6.00/unit"*), and inspect itemized DISCOM wheeling charges (₹0.15/unit). |
-| **5** | **Microgrid Compass Topology** | Directional Compass on Home / Marketplace | Filter and balance feeder segments: **S1-North** (NITK Research Park), **S2-East** (Commercial Market), **S3-South** (EV Corridor), and **Central Hub** (MESCOM Substation). |
-| **6** | **DISCOM Utility & Duck Curve View** | Top Navbar Menu ➔ DISCOM Dashboard | View real-time Duck Curve mitigation analytics proving how utilities earn guaranteed wheeling transit revenue without default risk. |
-
----
-
 ## ⚡ The Problem: India's Clean Energy Bottleneck
 
 Under initiatives like **PM Surya Ghar: Muft Bijli Yojana**, millions of Indian homes and institutions are installing rooftop solar PV systems. However, the current model is fundamentally broken:
