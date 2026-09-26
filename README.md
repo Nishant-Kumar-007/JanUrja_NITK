@@ -190,17 +190,6 @@ The production bundle will be generated in `dist/`.
 | `transactions` | Financial settlements | `gateway_txn_id`, `amount`, `payer_vpa`, `payee_vpa`, `co2_avoided_kg` |
 | `protocol_events` | Real-time Beckn audit trail | `action` (`search`, `init`, `confirm`, `settle`), `payload`, `timestamp` |
 
----
-
-## 👥 Team Members
-
-* **Nishant Kumar Sah** (Team Lead)
-* **Amit Kumar**
-* **Yash Patel**
-* **Aditya Raushan**
-
----
-
 <p align="center">
   <sub>NITK Surathkal Hackathon • Track 3: Reinvent Digital Public Infrastructure For Billions • Build for Billions</sub>
 </p>
