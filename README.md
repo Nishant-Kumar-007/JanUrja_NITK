@@ -29,8 +29,7 @@
 
 * **Live Web Application:** [https://nitk-surathkal-janurja.vercel.app](https://nitk-surathkal-janurja.vercel.app)
 * **GitHub Source Repository:** [https://github.com/Nishant-Kumar-007/JanUrja_NITK](https://github.com/Nishant-Kumar-007/JanUrja_NITK)
-* **Comprehensive Project Context & Guide:** [PROJECT_CONTEXT_AND_SETUP.md](file:///c:/Users/nisha/Hackathon/NITK%20Surathkal%20JanUrja%20Hackathon/PROJECT_CONTEXT_AND_SETUP.md)
-
+  
 ---
 
 ## ⚡ The Problem: India's Clean Energy Bottleneck
