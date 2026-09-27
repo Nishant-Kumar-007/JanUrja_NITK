@@ -37,32 +37,32 @@ const VERIFIED_PEER_OFFERS = [
     node_id: 'NODE-2010',
     price_per_kwh: 5.80,
     quantity_kwh: 15.00,
-    seller_name: 'NITK Solar Research Park #1',
-    node_name: 'Hebbal 11kV Microgrid Substation',
-    grid_zone: 'North Bengaluru (Hebbal Feeder)',
-    renewable_percentage: 100.0,
+    seller_name: 'Hebbal Solar Research Park',
+    node_name: 'Hebbal 11kV Microgrid Hub',
+    grid_zone: 'S1-North',
+    renewable_percentage: 99.5,
     distance_km: 0.8
   },
   {
-    id: 'offer-4015',
-    node_id: 'NODE-4015',
+    id: 'offer-6032',
+    node_id: 'NODE-6032',
     price_per_kwh: 6.20,
     quantity_kwh: 22.50,
-    seller_name: 'Indiranagar Commercial Rooftop',
-    node_name: 'Indiranagar 11kV Feeder Bus',
-    grid_zone: 'East Bengaluru (Indiranagar Feeder)',
+    seller_name: 'Indiranagar Commercial Rooftop Co-op',
+    node_name: 'Indiranagar Commercial Rooftop Node',
+    grid_zone: 'S2-East',
     renewable_percentage: 95.0,
     distance_km: 1.2
   },
   {
     id: 'offer-3088',
     node_id: 'NODE-3045',
-    price_per_kwh: 6.00,
-    quantity_kwh: 18.00,
-    seller_name: 'Koramangala Community Solar Prosumer',
-    node_name: 'Koramangala 4th Block Microgrid',
-    grid_zone: 'South Bengaluru (Koramangala 11kV)',
-    renewable_percentage: 100.0,
+    price_per_kwh: 6.75,
+    quantity_kwh: 4.00,
+    seller_name: 'Koramangala EV Reserve (V2G)',
+    node_name: 'Koramangala EV Fast Charge Point',
+    grid_zone: 'S3-South',
+    renewable_percentage: 92.0,
     distance_km: 1.5
   },
   {
@@ -71,10 +71,21 @@ const VERIFIED_PEER_OFFERS = [
     price_per_kwh: 6.10,
     quantity_kwh: 14.00,
     seller_name: 'Malleshwaram Solar Co-op',
-    node_name: 'Malleshwaram Distribution Feeder',
-    grid_zone: 'West Bengaluru (Malleshwaram Feeder)',
+    node_name: 'Malleshwaram Solar Co-op Hub',
+    grid_zone: 'S4-West',
     renewable_percentage: 98.0,
     distance_km: 1.9
+  },
+  {
+    id: 'offer-4015',
+    node_id: 'NODE-4015',
+    price_per_kwh: 7.10,
+    quantity_kwh: 35.00,
+    seller_name: 'BESCOM Grid Buffer (Central)',
+    node_name: 'BESCOM Central Substation Feeder #4',
+    grid_zone: 'Central-Hub',
+    renewable_percentage: 82.0,
+    distance_km: 0.0
   }
 ];
 

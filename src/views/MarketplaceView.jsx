@@ -67,11 +67,8 @@ export default function MarketplaceView() {
       {/* Page Header */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div>
-          <span className="text-xs font-bold text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-md border border-emerald-200">
-            Open Beckn Registry • Decentralized Microgrid
-          </span>
-          <h1 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
-            Surathkal Energy Marketplace
+          <h1 className="text-2xl sm:text-3xl font-black text-slate-900">
+            Bengaluru Energy Marketplace
           </h1>
           <p className="text-xs text-slate-500">
             Discover peer-to-peer solar providers, community microgrids, and green battery reserves.
