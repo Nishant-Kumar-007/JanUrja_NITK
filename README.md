@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>"UPI for Electricity" — Autonomous Peer-to-Peer Rooftop Solar Energy Trading</strong><br>
-  <em>Built for NITK Surathkal Hackathon • Track 3: Reinvent Digital Public Infrastructure For Billions</em>
+  <em></em>
 </p>
 
 <p align="center">
